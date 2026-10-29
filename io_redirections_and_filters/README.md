@@ -11,3 +11,4 @@
 13-unique: Prints words that appear exactly once, sorted alphabetically.
 14-findthatword: Displays lines containing root from /etc/passwd.
 15-countthatword: Counts lines containing the pattern bin in /etc/passwd.
+16-whatsnext: Displays lines containing root and the three lines after each match in /etc/passwd.
