@@ -2,3 +2,4 @@
 2-hellofile: Displays the contents of /etc/passwd.
 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
 5-firstlines: Displays the first 10 lines of /etc/passwd.
+6-third_line: Displays the third line of the file iacta.
