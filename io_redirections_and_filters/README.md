@@ -10,3 +10,4 @@
 12-newest_files: Displays the 10 newest entries in the current directory, from newest to oldest.
 13-unique: Prints words that appear exactly once, sorted alphabetically.
 14-findthatword: Displays lines containing root from /etc/passwd.
+15-countthatword: Counts lines containing the pattern bin in /etc/passwd.
