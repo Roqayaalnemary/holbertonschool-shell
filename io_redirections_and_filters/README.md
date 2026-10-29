@@ -1,3 +1,4 @@
 0-hello_world: Prints Hello, World followed by a new line.
 2-hellofile: Displays the contents of /etc/passwd.
 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
+5-firstlines: Displays the first 10 lines of /etc/passwd.
