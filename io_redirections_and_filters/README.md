@@ -3,3 +3,4 @@
 3-twofiles: Displays the contents of /etc/passwd and /etc/hosts.
 5-firstlines: Displays the first 10 lines of /etc/passwd.
 6-third_line: Displays the third line of the file iacta.
+8-cwd_state: Writes the output of ls -la to ls_cwd_content, overwriting the file if it exists.
