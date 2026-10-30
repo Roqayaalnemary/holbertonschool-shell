@@ -17,3 +17,4 @@
 19-AZ: Replaces every A with Z and every c with e in the input.
 20-hiago: Removes all lowercase c and uppercase C characters from input.
 21-reverse: Reverses the characters in each line of input.
+22-users_and_homes: Displays all usernames and their home directories from /etc/passwd, sorted alphabetically by username.
