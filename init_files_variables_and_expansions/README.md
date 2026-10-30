@@ -12,3 +12,4 @@
 11-binary_to_decimal: Converts a number from base 2 to base 10 using the BINARY environment variable.
 12-combinations: Prints all two-letter lowercase combinations except oo.
 13-print_float: Prints the NUM environment variable with two decimal places.
+14-decimal_to_hexadecimal: Converts the DECIMAL environment variable from base 10 to base 16.
