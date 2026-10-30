@@ -16,3 +16,4 @@
 18-letteronly: Displays lines in /etc/ssh/sshd_config that start with an alphabetic character.
 19-AZ: Replaces every A with Z and every c with e in the input.
 20-hiago: Removes all lowercase c and uppercase C characters from input.
+21-reverse: Reverses the characters in each line of input.
