@@ -3,3 +3,4 @@
 2-path: Adds /action to the end of the PATH environment variable.
 3-paths: Counts the non-empty directories in the PATH variable.
 4-global_variables: Displays all environment variables.
+5-local_variables: Displays local variables, environment variables, and shell functions.
